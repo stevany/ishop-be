@@ -1,4 +1,4 @@
-#blog-backend-ne
+#ishop-backend-ne
 
 install nodejs, mongoDB
 
